@@ -1,0 +1,2369 @@
+fileFormatVersion: 2
+guid: 6f775abd6152f384192360d31f1281cb
+timeCreated: 1478996461
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vehicles with alpha_0
+    21300002: Vehicles with alpha_1
+    21300004: Vehicles with alpha_2
+    21300006: Vehicles with alpha_3
+    21300008: Vehicles with alpha_4
+    21300010: Vehicles with alpha_5
+    21300012: Vehicles with alpha_6
+    21300014: Vehicles with alpha_7
+    21300016: Vehicles with alpha_8
+    21300018: Vehicles with alpha_9
+    21300020: Vehicles with alpha_10
+    21300022: Vehicles with alpha_11
+    21300024: Vehicles with alpha_12
+    21300026: Vehicles with alpha_13
+    21300028: Vehicles with alpha_14
+    21300030: Vehicles with alpha_15
+    21300032: Vehicles with alpha_16
+    21300034: Vehicles with alpha_17
+    21300036: Vehicles with alpha_18
+    21300038: Vehicles with alpha_19
+    21300040: Vehicles with alpha_20
+    21300042: Vehicles with alpha_21
+    21300044: Vehicles with alpha_22
+    21300046: Vehicles with alpha_23
+    21300048: Vehicles with alpha_24
+    21300050: Vehicles with alpha_25
+    21300052: Vehicles with alpha_26
+    21300054: Vehicles with alpha_27
+    21300056: Vehicles with alpha_28
+    21300058: Vehicles with alpha_29
+    21300060: Vehicles with alpha_30
+    21300062: Vehicles with alpha_31
+    21300064: Vehicles with alpha_32
+    21300066: Vehicles with alpha_33
+    21300068: Vehicles with alpha_34
+    21300070: Vehicles with alpha_35
+    21300072: Vehicles with alpha_36
+    21300074: Vehicles with alpha_37
+    21300076: Vehicles with alpha_38
+    21300078: Vehicles with alpha_39
+    21300080: Vehicles with alpha_40
+    21300082: Vehicles with alpha_41
+    21300084: Vehicles with alpha_42
+    21300086: Vehicles with alpha_43
+    21300088: Vehicles with alpha_44
+    21300090: Vehicles with alpha_45
+    21300092: Vehicles with alpha_46
+    21300094: Vehicles with alpha_47
+    21300096: Vehicles with alpha_48
+    21300098: Vehicles with alpha_49
+    21300100: Vehicles with alpha_50
+    21300102: Vehicles with alpha_51
+    21300104: Vehicles with alpha_52
+    21300106: Vehicles with alpha_53
+    21300108: Vehicles with alpha_54
+    21300110: Vehicles with alpha_55
+    21300112: Vehicles with alpha_56
+    21300114: Vehicles with alpha_57
+    21300116: Vehicles with alpha_58
+    21300118: Vehicles with alpha_59
+    21300120: Vehicles with alpha_60
+    21300122: Vehicles with alpha_61
+    21300124: Vehicles with alpha_62
+    21300126: Vehicles with alpha_63
+    21300128: Vehicles with alpha_64
+    21300130: Vehicles with alpha_65
+    21300132: Vehicles with alpha_66
+    21300134: Vehicles with alpha_67
+    21300136: Vehicles with alpha_68
+    21300138: Vehicles with alpha_69
+    21300140: Vehicles with alpha_70
+    21300142: Vehicles with alpha_71
+    21300144: Vehicles with alpha_72
+    21300146: Vehicles with alpha_73
+    21300148: Vehicles with alpha_74
+    21300150: Vehicles with alpha_75
+    21300152: Vehicles with alpha_76
+    21300154: Vehicles with alpha_77
+    21300156: Vehicles with alpha_78
+    21300158: Vehicles with alpha_79
+    21300160: Vehicles with alpha_80
+    21300162: Vehicles with alpha_81
+    21300164: Vehicles with alpha_82
+    21300166: Vehicles with alpha_83
+    21300168: Vehicles with alpha_84
+    21300170: Vehicles with alpha_85
+    21300172: Vehicles with alpha_86
+    21300174: Vehicles with alpha_87
+    21300176: Vehicles with alpha_88
+    21300178: Vehicles with alpha_89
+    21300180: Vehicles with alpha_90
+    21300182: Vehicles with alpha_91
+    21300184: Vehicles with alpha_92
+    21300186: Vehicles with alpha_93
+    21300188: Vehicles with alpha_94
+    21300190: Vehicles with alpha_95
+    21300192: Vehicles with alpha_96
+    21300194: Vehicles with alpha_97
+    21300196: Vehicles with alpha_98
+    21300198: Vehicles with alpha_99
+    21300200: Vehicles with alpha_100
+    21300202: Vehicles with alpha_101
+    21300204: Vehicles with alpha_102
+    21300206: Vehicles with alpha_103
+    21300208: Vehicles with alpha_104
+    21300210: Vehicles with alpha_105
+    21300212: Vehicles with alpha_106
+    21300214: Vehicles with alpha_107
+    21300216: Vehicles with alpha_108
+    21300218: Vehicles with alpha_109
+    21300220: Vehicles with alpha_110
+    21300222: Vehicles with alpha_111
+    21300224: Vehicles with alpha_112
+    21300226: Vehicles with alpha_113
+    21300228: Vehicles with alpha_114
+    21300230: Vehicles with alpha_115
+    21300232: Vehicles with alpha_116
+    21300234: Vehicles with alpha_117
+    21300236: Vehicles with alpha_118
+    21300238: Vehicles with alpha_119
+    21300240: Vehicles with alpha_120
+    21300242: Vehicles with alpha_121
+    21300244: Vehicles with alpha_122
+    21300246: Vehicles with alpha_123
+    21300248: Vehicles with alpha_124
+    21300250: Vehicles with alpha_125
+    21300252: Vehicles with alpha_126
+    21300254: Vehicles with alpha_127
+    21300256: Vehicles with alpha_128
+    21300258: Vehicles with alpha_129
+    21300260: Vehicles with alpha_130
+    21300262: Vehicles with alpha_131
+    21300264: Vehicles with alpha_132
+    21300266: Vehicles with alpha_133
+    21300268: Vehicles with alpha_134
+    21300270: Vehicles with alpha_135
+    21300272: Vehicles with alpha_136
+    21300274: Vehicles with alpha_137
+    21300276: Vehicles with alpha_138
+    21300278: Vehicles with alpha_139
+    21300280: Vehicles with alpha_140
+    21300282: Vehicles with alpha_141
+    21300284: Vehicles with alpha_142
+    21300286: Vehicles with alpha_143
+    21300288: Vehicles with alpha_144
+    21300290: Vehicles with alpha_145
+    21300292: Vehicles with alpha_146
+    21300294: Vehicles with alpha_147
+    21300296: Vehicles with alpha_148
+    21300298: Vehicles with alpha_149
+    21300300: Vehicles with alpha_150
+    21300302: Vehicles with alpha_151
+    21300304: Vehicles with alpha_152
+    21300306: Vehicles with alpha_153
+    21300308: Vehicles with alpha_154
+    21300310: Vehicles with alpha_155
+    21300312: Vehicles with alpha_156
+    21300314: Vehicles with alpha_157
+    21300316: Vehicles with alpha_158
+    21300318: Vehicles with alpha_159
+    21300320: Vehicles with alpha_160
+    21300322: Vehicles with alpha_161
+    21300324: Vehicles with alpha_162
+    21300326: Vehicles with alpha_163
+    21300328: Vehicles with alpha_164
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vehicles with alpha_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 221
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 221
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 221
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 221
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 221
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 221
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 221
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 221
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 221
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 221
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 221
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 233
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 233
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 219
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 191
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 191
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 191
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 191
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 211
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 195
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 195
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 203
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 195
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 155
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_48
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 128
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 94
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 94
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 94
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 94
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 94
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 94
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 94
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 94
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 94
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_62
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 94
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 64
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 82
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_83
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_84
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 82
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 82
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_88
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_94
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 70
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_96
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_98
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 70
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_104
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_105
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_106
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_108
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 57
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_109
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_110
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 57
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_112
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 57
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 55
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_114
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_115
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 57
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_116
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_117
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_118
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_119
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_120
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_121
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_122
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 45
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 43
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_124
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_126
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_127
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_128
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 32
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_129
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_130
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_132
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_133
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 32
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_135
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_136
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_137
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_139
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_140
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_142
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_143
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_146
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_148
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_149
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_150
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_152
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_154
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_155
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_156
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_159
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_160
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_161
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 7
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_162
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_163
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vehicles with alpha_164
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 7
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
