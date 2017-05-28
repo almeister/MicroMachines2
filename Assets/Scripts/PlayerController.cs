@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerController : MonoBehaviour {
+public class PlayerController : MonoBehaviour
+{
 
     private const float drivePower = 10;
     private const float brakePower = 2;
@@ -14,61 +15,65 @@ public class PlayerController : MonoBehaviour {
     private float previousSpeed = 0.0f;
     private float timeAtRest = 0.0f;
     private bool isResting = false;
+    private bool disabled = false;
 
-    void Start()
+    public void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
         rigidBody.gravityScale = 0;
     }
 
-    void FixedUpdate()
+    public void FixedUpdate()
     {
-        if (Input.GetButton("A"))
+        if (isControllerEnabled())
         {
-            rigidBody.AddForce(transform.up * drivePower);
-            rigidBody.drag = friction;
-        }
-
-        if (Input.GetButton("B"))
-        {
-            float currentSpeed = transform.InverseTransformDirection(rigidBody.velocity).y;
-
-            if (previousSpeed > 0 && currentSpeed <= 0 || isResting)
+            if (Input.GetButton("A"))
             {
-                timeAtRest += Time.deltaTime;
-                isResting = true;
+                rigidBody.AddForce(transform.up * drivePower);
+                rigidBody.drag = friction;
+            }
 
-                if (timeAtRest >= brakeRestTime)
+            if (Input.GetButton("B"))
+            {
+                float currentSpeed = transform.InverseTransformDirection(rigidBody.velocity).y;
+
+                if (previousSpeed > 0 && currentSpeed <= 0 || isResting)
                 {
-                    timeAtRest = 0.0f;
-                    isResting = false;
+                    timeAtRest += Time.deltaTime;
+                    isResting = true;
+
+                    if (timeAtRest >= brakeRestTime)
+                    {
+                        timeAtRest = 0.0f;
+                        isResting = false;
+                    }
                 }
+
+                if (isResting)
+                {
+                    // Resting... wait
+                }
+                else if (currentSpeed > 0)
+                    rigidBody.AddForce(-(transform.up) * (brakePower));
+                else
+                    rigidBody.AddForce(-(transform.up) * (reversePower));
+
+                rigidBody.drag = friction;
+                previousSpeed = currentSpeed;
             }
 
-            if (isResting)
+            if (Input.GetAxis("Horizontal") < 0)
             {
-                // Resting... wait
+                transform.Rotate(Vector3.forward * turningPower);
             }
-            else if (currentSpeed > 0)
-                rigidBody.AddForce(-(transform.up) * (brakePower));
-            else
-                rigidBody.AddForce(-(transform.up) * (reversePower));
 
-            rigidBody.drag = friction;
-            previousSpeed = currentSpeed;
+            if (Input.GetAxis("Horizontal") > 0)
+            {
+                transform.Rotate(Vector3.forward * -turningPower);
+            }
+
+            noGas();
         }
-
-        if (Input.GetAxis("Horizontal") < 0)
-        {
-            transform.Rotate(Vector3.forward * turningPower);
-        }
-
-        if (Input.GetAxis("Horizontal") > 0)
-        {
-            transform.Rotate(Vector3.forward * -turningPower);
-        }
-
-        noGas();
     }
 
     void noGas()
@@ -83,5 +88,20 @@ public class PlayerController : MonoBehaviour {
         {
             rigidBody.drag = friction * 1.5f;
         }
+    }
+
+    public void disable()
+    {
+        disabled = true;
+    }
+
+    public void enable()
+    {
+        disabled = false;
+    }
+
+    public bool isControllerEnabled()
+    {
+        return !disabled;
     }
 }

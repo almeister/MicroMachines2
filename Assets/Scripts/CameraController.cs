@@ -14,7 +14,7 @@ public class CameraController : MonoBehaviour {
             Debug.LogError("CameraController::Start no player1 found.");
 
         this.player1Transform = player1.transform;
-        offset.Set(0f, 0.5f, -10f);
+        offset.Set(0f, 0.5f, -20f);
 	}
 	
 	// Update is called once per frame
